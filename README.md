@@ -1,7 +1,5 @@
-# Martyr_Alireza_Asemi
- ØªØµØ§ÙˆÛŒØ± Ø´Ù‡ÛŒØ¯ Ø¹Ù„ÛŒØ±Ø¶Ø§ Ø¹Ø§ØµÙ…ÛŒ
-
-Mostafa Aliakbarzadeh 
+ÊÕÇæíÑ ÔåíÏ ÚáíÑÖÇ ÚÇÕãí
+<br>Mostafa Aliakbarzadeh 
 <br><table  align="center" border="1">
 <tr><td> Alireza Asemi </td></tr><tr><td><img src= "output/1.jpg" width="300"></td><td><img src= "output/10.jpg" width="300"></td><td><img src= "output/11.jpg" width="300"></td><td><img src= "output/12.jpg" width="300"></td><td><img src= "output/13.jpg" width="300"></td><td><img src= "output/14.jpg" width="300"></td></tr>
 <tr><td><img src= "output/15.jpg" width="300"></td><td><img src= "output/16.jpg" width="300"></td><td><img src= "output/17.jpg" width="300"></td><td><img src= "output/18.jpg" width="300"></td><td><img src= "output/19.jpg" width="300"></td><td><img src= "output/2.jpg" width="300"></td></tr>
